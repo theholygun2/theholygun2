@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Undergraduate Studen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jakarta.
+I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jakarta.
 
 - 🔭 I’m currently working on PocketDoraemon Bot
 - 🌱 I’m currently learning Javascript and Statistics
