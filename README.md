@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me :
 
-I am a Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jakarta.
+I am from Jakarta.
 
-- 🔭 I’m currently working on PocketDoraemon Bot
+- 🔭 I’m currently working on Building Affliate Marketing Web App
 - 🌱 I’m currently learning Security and DevOps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
